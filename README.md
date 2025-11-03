@@ -44,3 +44,4 @@ docker-compose exec app python populate_db.py
 ## Autor
 Vivian Duarte
 Link do YOUTUBE de apresentação do projeto https://youtu.be/aOm0hc_2PsI
+Prints de tela de funcinalidade na pasta "exemplo" link https://github.com/vivianduarteribeiro/banco-mongoDB/tree/main/exemplos
