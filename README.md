@@ -42,4 +42,5 @@ docker-compose exec app python populate_db.py
 ```
 
 ## Autor
-Fernanda Santana — Projeto desenvolvido para a disciplina **Advanced Databases and Big Data**.
+Vivian Duarte
+Link do YOUTUBE de apresentação do projeto https://youtu.be/aOm0hc_2PsI
